@@ -1,0 +1,15 @@
+streamlit
+torch
+transformers
+xgboost
+lightgbm
+scikit-learn
+pandas
+numpy
+yfinance
+curl_cffi
+textblob
+plotly
+requests
+beautifulsoup4
+lxml
