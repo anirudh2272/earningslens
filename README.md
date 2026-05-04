@@ -1,6 +1,7 @@
 # 🔍 EarningsLens
 
 **Earnings Move Intelligence** — Predicts post-earnings stock price direction and magnitude using FinBERT NLP + Ensemble ML + Quantile Regression.
+https://earningslens.streamlit.app/
 
 ## What It Does
 
